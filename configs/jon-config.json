@@ -1,0 +1,28 @@
+{
+    "streams": [
+        {
+            "destination": "10.1.200.1",
+            "dscp": 20,
+            "label": "Eagle",
+            "interval": 1
+        },
+        {
+            "destination": "10.1.200.1",
+            "dscp": 30,
+            "label": "Verizon",
+            "interval": 1
+        },
+        {
+            "destination": "10.1.200.1",
+            "dscp": 40,
+            "label": "Starlink",
+            "interval": 1
+        },
+        {
+            "destination": "10.1.200.1",
+            "dscp": 10,
+            "label": "T-Mobile",
+            "interval": 2
+        }
+    ]
+}

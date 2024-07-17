@@ -1,0 +1,32 @@
+/* Custom styles for the dark mode dropdown */
+.dropdown-dark .Select-control {
+    background-color: #303435 !important;
+    color: white !important;
+}
+
+.dropdown-dark .Select-placeholder {
+    color: white !important;
+}
+
+.dropdown-dark .Select-menu-outer {
+    background-color: #303435 !important;
+    color: white !important;
+}
+
+.dropdown-dark .Select-option {
+    background-color: #303435 !important;
+    color: white !important;
+}
+
+.dropdown-dark .Select-option.is-focused {
+    background-color: #555 !important;
+}
+
+.dropdown-dark .Select-option.is-selected {
+    background-color: #555 !important;
+}
+
+/* Ensure the selected config name is visible */
+.dropdown-dark .Select-value-label {
+    color: white !important;
+}
